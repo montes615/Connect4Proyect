@@ -1,0 +1,6 @@
+# virtual enviroment
+venv
+
+# python compilations
+__pycache__
+
